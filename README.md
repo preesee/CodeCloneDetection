@@ -1,0 +1,2 @@
+# CodeCloneDetection
+Public version
